@@ -166,24 +166,25 @@ http://203.207.56.228/live/iptv029.m3u8
 https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="MOVIES",WARNER TV
 https://anevia115.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV-avc1_1000000=16-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 group-title="MOVIES",HBO FAMILY HD
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
-#EXTINF:-1 group-title="MOVIES",HBO Family [BACKUP]
-https://www.livedoomovie.com/02_HBOFamily_720p/chunklist.m3u8
-#EXTINF:-1 group-title="MOVIES",HBO Hits
-http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass
-#EXTINF:-1 group-title="MOVIES",HBO Hits [BACKUP]
-https://anevia115.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_2499968=10-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 group-title="MOVIES",HBO Hits [BACKUP 2]
-https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
-#EXTINF:-1 group-title="MOVIES",HBO Signature
-http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E515E3219100C78A9625CAE3&profile=pass
-#EXTINF:-1 group-title="MOVIES",HBO Signature HD
-https://anevia115.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature-avc1_2499968=7-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 group-title="MOVIES",HBO Signature (Backup 2)
-https://www.livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
-#EXTINF:-1 group-title="MOVIES",Red by HBO
-https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/hbo_asia.png" tvg-id="c4379d13572d085312ffef2cd5d4a7a7",HBO HD
+http://157.119.56.249:2019/live/gratis/diemdiemaja/137.ts
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/hbo_hits.png" tvg-id="216ad7670aeac0b23e11fdbc13200c7f",HBO Hits
+http://157.119.56.249:2019/live/gratis/diemdiemaja/136.ts
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/hbo_family_asia.png" tvg-id="bd833b39257c35def3eff69f74d1d7e2",HBO Family
+http://203.153.218.26:9981/stream/channelid/960201661
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/hbo_signature_asia.png" tvg-id="5f1d99ff7a0407de4f70a6d15a27cb7a",HBO Signature
+http://203.153.218.26:9981/stream/channelid/2140740959
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/blue-ant-extreme-ca.png" tvg-id="b57c2f8768bcfdba104c35a8dd8b6639",Blue Ant Extreme
+http://203.153.218.26:9981/stream/channelid/120552629
+
+#EXTINF:-1,FOX MOVIES PREMIUM
+http://157.119.56.249:2019/live/gratis/diemdiemaja/37.ts
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/fox_global.png" tvg-id="59732413cf986964787adfb05e71d108",FOX
+http://157.119.56.249:2019/live/gratis/diemdiemaja/40.ts
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/fox_movies_family.png" tvg-id="2c3bbeac9d7621a579b275bc2ed6f67b",FOX Family Movies
+http://203.153.218.26:9981/stream/channelid/750664492
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/fox_movies_action.png" tvg-id="21252d69f4203ee24552bb350a0b4880",FOX Action Movies
+http://157.119.56.249:2019/live/gratis/diemdiemaja/39.ts
 #EXTINF:-1 group-title="MOVIES",Cinemax
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
 #EXTINF:-1 group-title="MOVIES",Cinemax (Backup)
