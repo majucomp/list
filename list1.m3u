@@ -576,6 +576,78 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_
 #EXTINF:-1 group-title="KNOWLEDGE",TECHSTORM
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(f4802587-5d0c-4181-a873-bf9de86cecf6)/manifest.mpd
 
+#EXTINF:-1  tvg-logo=1 group-title="SPORTS",BeInSport 1 SD
+http://skdn.redi-vo.com/iptv/ch8111?code=103131497823984&key=33281
+#EXTINF:-1  tvg-logo=1 group-title="SPORTS",BeInSport 2 HD
+http://skdn.redi-vo.com/iptv/ch112?code=103131497823984&key=46098
+#EXTINF:-1  tvg-logo=1 group-title="SPORTS",BeInSport 2 SD
+http://skdn.redi-vo.com/iptv/ch8112?code=103131497823984&key=12334
+#EXTINF:-1  tvg-logo=1 group-title="SPORTS",BeInSport 3 SD
+http://skdn.redi-vo.com/iptv/ch8113?code=103131497823984&key=46519
+#EXTINF:-1  tvg-logo=1 group-title="SPORTS",BeInSport 4 HD
+http://skdn.redi-vo.com/iptv/ch114?code=103131497823984&key=46165
+#EXTINF:-1  tvg-logo=1 group-title="SPORTS",BeInSport 4 SD
+http://skdn.redi-vo.com/iptv/ch8114?code=103131497823984&key=40487
+#EXTINF:-1  tvg-logo=1 group-title="SPORTS",BeInSport 5 HD
+http://skdn.redi-vo.com/iptv/ch115?code=103131497823984&key=45992
+#EXTINF:-1  tvg-logo=1 group-title="SPORTS",BeInSport 6 HD
+http://skdn.redi-vo.com/iptv/ch116?code=103131497823984&key=57392
+#EXTINF:-1  tvg-logo=1 group-title="SPORTS",BeInSport 7 HD
+http://skdn.redi-vo.com/iptv/ch117?code=103131497823984&key=58844
+#EXTINF:-1  tvg-logo=1 group-title="SPORTS",BeInSport 8 HD
+http://skdn.redi-vo.com/iptv/ch118?code=103131497823984&key=43336
+#EXTINF:-1  tvg-logo=1 group-title="SPORTS",BeInSport 9 HD
+http://skdn.redi-vo.com/iptv/ch510?code=103131497823984&key=27398
+#EXTINF:-1  tvg-logo=1 group-title="SPORTS",BeInSport 9 SD
+http://skdn.redi-vo.com/iptv/ch8510?code=103131497823984&key=20158
+#EXTINF:-1  tvg-logo=1 group-title="SPORTS",BeInSport 10 HD
+http://skdn.redi-vo.com/iptv/ch511?code=103131497823984&key=51278
+#EXTINF:-1  tvg-logo=1 group-title="SPORTS",BeInSport 10 SD
+http://skdn.redi-vo.com/iptv/ch8511?code=103131497823984&key=15103
+#EXTINF:-1  tvg-logo=1 group-title="SPORTS",Bein Sport
+http://skdn.redi-vo.com/iptv/ch400?code=103131497823984&key=63718
+#EXTINF:-1  tvg-logo=1 group-title="SPORTS",beIN Sports 1 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport1.m3u8
+#EXTINF:-1  tvg-logo=1 group-title="SPORTS",beIN Sports 2 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport2.m3u8
+#EXTINF:-1  tvg-logo=1 group-title="SPORTS",beIN Sports 3 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport3.m3u8
+#EXTINF:-1  tvg-logo=1 group-title="SPORTS",beIN Sports 4 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport4.m3u8
+#EXTINF:-1  tvg-logo=1 group-title="SPORTS",beIN Sports 5 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport5.m3u8
+#EXTINF:-1  tvg-logo=1 group-title="SPORTS",beIN Sports 6 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport6.m3u8
+#EXTINF:-1  tvg-logo=1 group-title="SPORTS",BeinSport 1 TR
+http://skdn.redi-vo.com/iptv/ch1353?code=103131497823984&key=31156
+#EXTINF:-1  tvg-logo=1 group-title="SPORTS",BeinSport 3 TR
+http://skdn.redi-vo.com/iptv/ch2356?code=103131497823984&key=44129
+#EXTINF:-1  tvg-logo=1 group-title="SPORTS",BeinSport 4 TR
+http://skdn.redi-vo.com/iptv/ch2360?code=103131497823984&key=19535
+#EXTINF:-1  tvg-logo=1 group-title="SPORTS",BeinSport Max 1
+http://skdn.redi-vo.com/iptv/ch2358?code=103131497823984&key=41059
+#EXTINF:-1  tvg-logo=1 group-title="SPORTS",BeinSport Max 2
+http://skdn.redi-vo.com/iptv/ch2359?code=103131497823984&key=29388
+#EXTINF:-1  tvg-logo=1 group-title="SPORTS",Bein Sports News
+http://skdn.redi-vo.com/iptv/ch110?code=103131497823984&key=44880
+#EXTINF:-1  tvg-logo=1 group-title="SPORTS",BeInSport 2 FR
+http://skdn.redi-vo.com/iptv/ch120?code=103131497823984&key=38010
+#EXTINF:-1  tvg-logo=1 group-title="SPORTS",BeInSport 3 FR
+http://skdn.redi-vo.com/iptv/ch206?code=103131497823984&key=26341
+#EXTINF:-1  tvg-logo=1 group-title="SPORTS",BeInSport Max 4
+http://skdn.redi-vo.com/iptv/ch340?code=103131497823984&key=46196
+#EXTINF:-1  tvg-logo=1 group-title="SPORTS",BeInSport Max 5
+http://skdn.redi-vo.com/iptv/ch341?code=103131497823984&key=45618
+#EXTINF:-1  tvg-logo=1 group-title="SPORTS",BeInSport Max 6
+http://skdn.redi-vo.com/iptv/ch342?code=103131497823984&key=61413
+#EXTINF:-1  tvg-logo=1 group-title="SPORTS",BeInSport Max 8
+http://skdn.redi-vo.com/iptv/ch344?code=103131497823984&key=31483
+#EXTINF:-1  tvg-logo=1 group-title="SPORTS",BeInSport Max 9
+http://skdn.redi-vo.com/iptv/ch345?code=103131497823984&key=28076
+#EXTINF:-1  tvg-logo=1 group-title="SPORTS",BeInSport Max 10
+http://skdn.redi-vo.com/iptv/ch346?code=103131497823984&key=22468
+#EXTINF:-1  tvg-logo=1 group-title="SPORTS",Bein Sport SPANA
+http://skdn.redi-vo.com/iptv/ch1220?code=103131497823984&key=25450
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1111842868908318721/lMvLaebw_400x400.jpg" group-title="SPORTS",TVRI SPORTS
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fightsports.tv/wp-content/uploads/fightsports280.jpg" group-title="SPORTS",Fight Sport
