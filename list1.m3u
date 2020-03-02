@@ -173,15 +173,15 @@ http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/83
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="MOVIES CHANNEL",FOX Family Movies
+#EXTINF:-1 tvg-id="ext" group-title="MOVIES CHANNEL",FOX Family Movies
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=827D4321F9CAC5C5190A62ED52CF898B6AB6986F&profile=pass
-#EXTINF:0 tvg-id="FoxMovies.pt" group-title="MOVIES CHANNEL",Fox Movies
+#EXTINF:-1 tvg-id="FoxMovies.pt" group-title="MOVIES CHANNEL",Fox Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=BC3F62962957A545FF2FCFFCDD109A630F050061&profile=pass
-#EXTINF:0 tvg-id="Hbofamily.br" group-title="MOVIES CHANNEL",HBO Family
+#EXTINF:-1 tvg-id="Hbofamily.br" group-title="MOVIES CHANNEL",HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=12B8D0AFD0DF1E540112E98517F249D314CC37C4&profile=pass
-#EXTINF:0 tvg-id="HBOHits.in" group-title="MOVIES CHANNEL",HBO Hits
+#EXTINF:-1 tvg-id="HBOHits.in" group-title="MOVIES CHANNEL",HBO Hits
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=1C717A0D3F3350CBA4B8519503DABB156C09BFC2&profile=pass
-#EXTINF:0 tvg-id="HBOSignature.mx" group-title="MOVIES CHANNEL",HBO Signature
+#EXTINF:-1 tvg-id="HBOSignature.mx" group-title="MOVIES CHANNEL",HBO Signature
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=25D6186F63BD65A300657BDF78B9532138071EF9&profile=pass
 #EXTINF:-1  tvg-logo="1" group-title="MOVIES CHANNEL",THRILL
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
