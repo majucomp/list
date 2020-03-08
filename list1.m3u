@@ -345,6 +345,33 @@ https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_142
 #EXTINF:-1  tvg-logo="1" group-title="MOVIES CHANNEL",MNX
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 
+#EXTINF:0,tvg-logo="https://lh3.googleusercontent.com/proxy/Qiz9wpbo9k9kUllrxN-tMrDSGwr6Z64wVL54sdnUj6FSKp1KDq-M4_-foHxtFCMQgI-8_1nvhE523tVndoBwvPYwASQUM9uBj4hr3W9I9Diwk-IOAq5f5knQt-ZW_NuZpi5GeOZSPNHyxy0rDNn07c2MZpbm5np2ohFpP2FvjnGyQPOHj_ygR12b=w440-h191-nc" group-title="MOVIES CHANNEL",FOX
+http://rr.dens.tv/h/h04/index1.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="CNBC International" tvg-logo="" group-title="INDIHOME TV",CNBC International
+http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E57107CB6140923FE593775&profile=pass
+ 
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="INDIHOME TV",Discovery Channel
+http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
+ 
+#EXTINF:-1 tvg-ID="" tvg-name="HISTORY CHANNEL" tvg-logo="" group-title="INDIHOME TV",History Channel
+http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
+ 
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO PEOPLE" tvg-logo="" group-title="INDIHOME TV",NAT GEO People
+http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
+ 
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO WILD" tvg-logo="" group-title="INDIHOME TV",NAT GEO Wild
+http://203.153.218.28:9981/stream/channelid/1497533758?ticket=36B439E64C5884A941F9938AD9373C4B849363BA&profile=pass
+ 
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="" group-title="INDIHOME TV",National Geographic
+http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
+ 
+#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON ASIA" tvg-logo="" group-title="INDIHOME TV",Nickelodeon Asia
+http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
+ 
+#EXTINF:-1 tvg-ID="" tvg-name="TLC" tvg-logo="" group-title="INDIHOME TV",TLC
+http://203.153.218.28:9981/stream/channelid/391618553?ticket=08323DCACE84958A87EA829F012E919CA861DF74&profile=pass
+
 
 #EXTINF:-1  tvg-logo="1" group-title="INFO CHANNEL",Crime & Investigation
 http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/95
