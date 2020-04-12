@@ -300,28 +300,8 @@ http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817AD
 http://203.153.218.28:9981/stream/channelid/391618553?ticket=08323DCACE84958A87EA829F012E919CA861DF74&profile=pass
 
 
-#EXTINF:-1  tvg-logo="1" group-title="INFO CHANNEL",Crime & Investigation
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/95
-#EXTINF:-1  tvg-logo="1" group-title="INFO CHANNEL",Nat Geo Wild
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/63
-#EXTINF:-1  tvg-logo="1" group-title="INFO CHANNEL",Channel V.
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/65
-#EXTINF:-1  tvg-logo="1" group-title="INFO CHANNEL",Discovery Channel
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/67
-#EXTINF:-1  tvg-logo="1" group-title="INFO CHANNEL",History
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/71
-#EXTINF:-1  tvg-logo="1" group-title="INFO CHANNEL",Discovery Asia
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/90
-#EXTINF:-1  tvg-logo="1" group-title="INFO CHANNEL",ANIMAL PLANET
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/47
-#EXTINF:-1  tvg-logo="1" group-title="INFO CHANNEL",LOVE NATURE
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/39
-#EXTINF:-1  tvg-logo="1" group-title="INFO CHANNEL",BBC EARTH
-https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth-avc1_1000000=10-mp4a_98800_eng=5.m3u8
-#EXTINF:-1  tvg-logo="1" group-title="INFO CHANNEL",ANIMAL PLANET
-https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_1000000=16-mp4a_98800_eng=3.m3u8
-#EXTINF:-1  tvg-logo="1" group-title="INFO CHANNEL",ASIAN FOOD CHANNEL
-https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC-avc1_1000000=6-mp4a_98800_eng=3.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="INFO CHANNEL",ANIMAL PLANET
+http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
 #EXTINF:-1  tvg-logo="1" group-title="INFO CHANNEL",NAT GEO People
 http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
 #EXTINF:-1  tvg-logo="1" group-title="INFO CHANNEL",NAT GEO Wild
